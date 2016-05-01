@@ -116,6 +116,10 @@ a img{border:0px;}
 	margin:0px 20px 15px 0px;
 	padding:0px;
 }
+    #work #work-thumbs li img {
+        width: 200px;
+        height: 180px;
+    }
 #work #work-thumbs li.last{margin:0px;}
 
 /****************************************************/
